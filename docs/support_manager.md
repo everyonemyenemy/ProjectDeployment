@@ -21,3 +21,4 @@
 
 > "Поддержка — это не просто работа, это искусство." - Аноним
 
+![image](https://github.com/user-attachments/assets/c395de46-65b1-470b-8d03-33a9a6e48f47)
