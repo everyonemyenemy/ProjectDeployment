@@ -20,3 +20,5 @@
 - [Инструменты для развертывания](https://example.com/deployment-tools)
 
 > "Успешное развертывание — это результат тщательной подготовки." - Аноним
+
+![image](https://github.com/user-attachments/assets/3cfa4bcf-ab6b-44a5-909e-cdd48b8647aa)
